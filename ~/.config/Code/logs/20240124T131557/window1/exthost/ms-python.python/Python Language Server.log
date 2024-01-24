@@ -1,0 +1,13 @@
+2024-01-24 13:16:09.778 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-24 13:16:10.199 [info] [Info  - 1:16:10 PM] (3634) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-24 13:16:10.199 [info] [Info  - 1:16:10 PM] (3634) Server root directory: /home/diego/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-24 13:16:10.203 [info] [Info  - 1:16:10 PM] (3634) Starting service instance "Classificazione_Malattie_Cardiovascolari"
+2024-01-24 13:16:10.241 [info] [Info  - 1:16:10 PM] (3634) Setting pythonPath for service "Classificazione_Malattie_Cardiovascolari": "/bin/python"
+2024-01-24 13:16:10.241 [info] [Info  - 1:16:10 PM] (3634) Setting environmentName for service "Classificazione_Malattie_Cardiovascolari": "3.11.6 (global)"
+2024-01-24 13:16:10.260 [info] [Info  - 1:16:10 PM] (3634) Assuming Python version 3.11
+2024-01-24 13:16:10.315 [info] [Info  - 1:16:10 PM] (3634) No source files found.
+2024-01-24 13:16:10.335 [info] [Info  - 1:16:10 PM] (3634) Starting service instance "Classificazione_Malattie_Cardiovascolari"
+2024-01-24 13:16:10.353 [info] [Info  - 1:16:10 PM] (3634) Setting environmentName for service "Classificazione_Malattie_Cardiovascolari": "3.11.6 (global)"
+2024-01-24 13:16:10.390 [info] [Info  - 1:16:10 PM] (3634) No source files found.
+2024-01-24 13:16:15.676 [info] [Info  - 1:16:15 PM] (3634) [IDX(3)] Long operation: index execution environment /home/diego/Downloads/Classificazione_Malattie_Cardiovascolari (4068ms)
+2024-01-24 13:16:15.688 [info] [Info  - 1:16:15 PM] (3634) [IDX(3)] Long operation: index packages /home/diego/Downloads/Classificazione_Malattie_Cardiovascolari (4114ms)

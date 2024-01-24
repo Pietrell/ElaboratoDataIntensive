@@ -1,0 +1,15 @@
+Visual Studio Code (1.85.1, undefined, desktop)
+Jupyter Extension Version: 2023.11.1100101639.
+Python Extension Version: 2023.22.1.
+Pylance Extension Version: 2023.12.1.
+Platform: linux (x64).
+Workspace folder ~/Downloads/Classificazione_Malattie_Cardiovascolari, Home = /home/diego
+13:16:07.759 [info] Start refreshing Kernel Picker (1706098567759)
+13:16:07.764 [info] Using Pylance
+13:16:08.567 [warn] Failed to get activated env vars for /bin/python in 68ms
+13:16:08.583 [info] Process Execution: /bin/python -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+13:16:08.606 [info] Process Execution: /bin/python -m pip list
+13:16:09.611 [info] End refreshing Kernel Picker (1706098567759)
+13:16:10.226 [warn] No interpreter for Pylance for Notebook URI "~/Downloads/Classificazione_Malattie_Cardiovascolari/Elaborato.ipynb"
+13:16:30.089 [info] Disposing HostJupyterExecution
+13:16:30.089 [info] Disposing HostJupyterExecution
